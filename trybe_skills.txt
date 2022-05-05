@@ -1,5 +1,3 @@
 - Unix
-- Bash 
+- Bash
 - Git
-- HTML
-- CSS
