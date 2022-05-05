@@ -2,5 +2,5 @@
 - Bash
 - Git
 - HTML
-- Internet
 - CSS
+- Internet
