@@ -1,0 +1,46 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+h3 {
+    font-style: normal;
+}
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    background-color: cyan;
+}
+.principal {
+    font-weight: bold;
+}
+.Nome {
+    font-style:italic;
+}
+.idade {
+    font-style:italic;
+}
+.etnia {
+    font-style: italic;
+}
+.naturalidade {
+    font-style: italic;
+}
+.lista1 {
+    font-size: large;
+}
+.lista2 {
+    font-size: larger;
+}
+.lista3 {
+    font-size: 30px;
+}
+.lista4 {
+    font-size: 25px;
+}
+.lista5 {
+    font-size: 20px;
+}
